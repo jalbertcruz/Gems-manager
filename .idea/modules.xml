@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Gems admin/Gems admin.iml" filepath="$PROJECT_DIR$/Gems admin/Gems admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Scala/fLib/fLib.iml" filepath="$PROJECT_DIR$/../../Scala/fLib/fLib.iml" />
+    </modules>
+  </component>
+</project>
+

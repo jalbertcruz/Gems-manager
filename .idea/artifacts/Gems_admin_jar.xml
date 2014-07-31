@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact name="Gems admin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Gems_admin_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Gems admin.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/Gems admin/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="Gems admin" />
+        <element id="module-output" name="fLib" />
+      </element>
+      <element id="directory" name="lib">
+        <element id="file-copy" path="$PROJECT_DIR$/lib/gson-2.2.4.jar" />
+        <element id="library" level="application" name="scala-library" />
+      </element>
+    </root>
+  </artifact>
+</component>

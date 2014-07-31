@@ -1,0 +1,9 @@
+/resources/
+/.settings/
+/bin/
+/backup/
+/gems/
+*.rar
+*.bat
+salida.json
+allNames.txt
